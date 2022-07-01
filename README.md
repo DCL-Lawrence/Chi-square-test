@@ -1,7 +1,7 @@
 This is a program for chi-square test.
 I seperate the LSB plane into red, green, and blue LSB plane.
 So, you can find which color's LSB plane is irregular.
-Or the hidden data is spread evenly in all LSB plane.
+Or the hidden data is spread evenly in all LSB planes.
 
 -------------------------------------
 Requirement:

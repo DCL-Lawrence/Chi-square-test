@@ -77,7 +77,7 @@ def Plane(Object, num):
     
 if __name__ == "__main__":    
     try:
-        img = cv2.imread("") # input shoto name 
+        img = cv2.imread("") # input photo name 
     except Exception as f:
         print(f)
         sys.exit()
